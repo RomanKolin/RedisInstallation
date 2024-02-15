@@ -1,0 +1,5 @@
+SET fkey 'f'
+GET fkey
+BGSAVE
+KEYS *
+INFO keyspace
